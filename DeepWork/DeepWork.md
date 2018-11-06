@@ -16,7 +16,7 @@ I have chosen that title because I believe that both, continuous learning and on
 
 ---
 
-Why is learning important?
+## Why is learning important?
 
 * we are knowledge workers
 	* the software world is a fast changing environment - our javascript developers can tell one or two things about it
@@ -39,4 +39,38 @@ Why is learning important?
 
 ---
 
+## Motivation
+
+* An important part to be an efficient learner is to know why you learn
+* There a different ways why we learn - some learn for specific goals - to finish a course or to get a salary raise / promotion
+* Those are good reasons to learn - but everyone had this phase in his or her life where learning was easy - because you were curious at that time
+* to utilise this notion of learning out of curiosity it is important to provide yourself that space to learn - Mashooq for example has an hour every morning for himself to do whatever he wants. Doing sport - doing something healthy - read a book or to deliberately learn
+* I have this space in the evening - every evening i put aside one hour to do something productie - monday and friday it is usually sport but from tuesday to thursday i normally try to learn something
+* i want to highlight that avoiding a goal - like a course certificate - helps greatly with learning because you can take your time to really dig deep into the topic.
+* i experienced the downside of having a goal while doing the robotics udacity course over the last 3 months. Before attending this course i learned whatever i wanted , for example testing kubernetes with google cloud or learning type writing but without any time constraints and it helped me to sustain the experience. On the other hand it takes way more effort to deeply learn in a course with time constraints and specific milestones.
+
+---
+
+## Mindset
+
+Besides the motivation it is important to find the appropriate mindset to build a learning habit. In the software craftsmanship community it is called the Beginners mind - be open and eager and remove preconceptions before starting to learn. Be open to repeat the basics from time to time but also to move to different challenges to not stuck in a local optima. Tame your obsession - do not only practice your favorite technique, like functional programming but be open to other concepts as well. Mastering OOP will help you to become better at FP and the other way around. Make sure that you understand that it will take time to learn - step by step - bit by bit. And after you mastered the basics try to be creative - let your natural curiosity guide you into the areas where you start to explose and challenge knowledge. That's how you create progress. But it is equally important to relax. There is a concept of a focused mode and a diffuse mode. While we normally try to solve problems in the focused mode our diffuse mode will solve the difficult ones subconsciously.
+
+---
+
+## How do i structure my daily life to provide that space for deliberate learning?
+
+* i plan my months, weeks and days ahead - sometimes accurately, sometimes not so much
+* but it helps me to clear my mind of the things i want to do - it helps to stay focused and to get rid of the feeling that you forgot something you really wanted to do 
+* On a monthly scale i will layout broader topics i would like to follow - similar to or PGP / or the MDP on a venture level - obviously it is influenced by it as well - for example the last to months i focused a lot on task estimation and tech debt 
+* on a weekly basis i try to create tasks based on different themes - networking for example or to learn something new from my peers (independet of the cohort) - getting feedback from team members or to research about the latest technology
+* that is somethign i do on sundays - that's where i decide who i want to reach out to for having dinner or a coffee
+* on a daily basis i try to lay out the next day at the end of my work day - even my free time - so that i have a feeling of accomplishment - it helps ours brains to be occupied with something. But it is important that it is not the same 
+
+---
+
 Thanks for listening.
+
+Further Information:
+* "Deep Work" by Cal Newport
+* "So good they can't ignore you" by Cal Newport
+* "A mind for number" by Barbara Oakley
