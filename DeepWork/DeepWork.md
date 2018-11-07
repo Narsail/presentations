@@ -57,6 +57,32 @@ Besides the motivation it is important to find the appropriate mindset to build 
 
 ---
 
+## Deep Work and Shallow Work
+
+* After discussing why it is important to learn and what is needed to do so efficiently i want to introduce Deep Work to you. I think everyone here knows it by the term flow. For the most of us it is easy to be in the flow while doinig something pleasent or in the case of software engineers, when we code. Those are the moments where we can dive easily into that state.
+* And this it what Deep work means. Being in the flow over tasks needing cognitive effort to complete. It is important to know that we can get into this state even for unpleasant tasks as well - we can train that skill of doing Deep Work. 
+* This kind of state is very helpful when you want to deliberately learn or practice something. You deeply think about a problem and load all the relevant data into your mind. Your brain can build the necessary neural connections. 
+* I mentioned the term focused mode and diffuse mode on the last slide - deep work is your focused mode which will help your subconcious to have the necessary information for a problem to do the work for you. I.e. while you sleep
+* The counterpart of deep work is shallow work. It is that work you do when you do fast context switching. Answering emails, being available on slack, meetings and so on. It is rather difficult to stay productive or creative while being shallow. But before everyone starts now to get read of all those distractions - according to the paper in the nineties - on average - we can only stay 4 hours in the deep work mode on a day. So there is plenty of time to do shallow work :) [^footnote]
+
+
+
+[^footnote]: The Role of Deliberate Practice in the Acquisition of Expert Performance.
+
+---
+
+## Methods
+
+* So how do i support continuous learning and to utilize deep work in my daily life? With those five listed techniques i want to share with you now.
+* These are the following:
+	* Plan your time and Build routines
+	* Drain the Shallows
+	* Spaced Repetition
+	* Measure yourself
+	* Coding Katas
+
+---
+
 ## How do i structure my daily life to provide that space for deliberate learning?
 
 * i plan my months, weeks and days ahead - sometimes accurately, sometimes not so much
@@ -64,9 +90,24 @@ Besides the motivation it is important to find the appropriate mindset to build 
 * On a monthly scale i will layout broader topics i would like to follow - similar to or PGP / or the MDP on a venture level - obviously it is influenced by it as well - for example the last to months i focused a lot on task estimation and tech debt 
 * on a weekly basis i try to create tasks based on different themes - networking for example or to learn something new from my peers (independet of the cohort) - getting feedback from team members or to research about the latest technology
 * that is somethign i do on sundays - that's where i decide who i want to reach out to for having dinner or a coffee
-* on a daily basis i try to lay out the next day at the end of my work day - even my free time - so that i have a feeling of accomplishment - it helps ours brains to be occupied with something. But it is important that it is not the same 
+* on a daily basis i try to lay out the next day at the end of my work day - even my free time - sure someone might think it sounds a lot of effort to plan your free time and that it might not benefit you. But just think about the last game you played or book you read while forgetting everything else around you. and now compare it with evenings where you had time but didn't not know what to do. What left you with a more pleasant feeling at the end of the day? If you prefer the first one, planning can help you with that. Even in your spare time.
+* all this planning has a secondary goal - to create habits - it helps me to plan my day around certain routines to have an easy entry into deep work. For example before my evening session i currently try to meditate for 10 minutes to start with a clear mind. 
+* At the end of each day i shut down my work day to get rid of the mental balast for the evening. I want to have the mental ressources to use my personal space for new learnings. 
 
 ---
+
+## Drain the Shallows
+
+* how can you drain those shallows - how can you flee from the world of continuous distraction? 
+* There are notable ways to do this:
+1. Simply avoid those distractions while working deeply and deal with them later and by planning active shallow time - where it comes handy to actually plan your day
+* everytime i work in a new team and we have a exercise where we explain individual expectations to work together - i emphasize - pls do not distract me when i work while wearing headphones
+* in this situation i typically try to be in deep work and also reduce other distractions as well - by putting the apple devices in the do not disturb mode
+2. the second way of draining your shallows is to actually drain them. 
+* Make yourself rare - every one of us has the right to control its own communication - reset your correspondents expectation to the reality that you will probably not respond. I know, this is a kind of extreme measure but probably possible through good expectation management and an approbriate communication strategy. The author of the Book Deep work even recommends to not answer emails when one of the following three reasons applies: the content is ambiguous and makes it hard to generate a reasonable response. It is not a question or proposal that interests you. Or nothing really good or bad will happen if you do not reply. It is the senders responsibility to convince the receiver that a reply is worthwhile. Unfortunately i'm not doing this yet.
+* But there is a second one concerning our communication and it is about how we actively shape our email / slack communication - Be specific in your messages so that you can steer the communication in a fashion that the number of follow up emails will reduce or ideally will be one. 
+
+--- 
 
 Thanks for listening.
 
