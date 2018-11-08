@@ -107,7 +107,33 @@ Besides the motivation it is important to find the appropriate mindset to build 
 * Make yourself rare - every one of us has the right to control its own communication - reset your correspondents expectation to the reality that you will probably not respond. I know, this is a kind of extreme measure but probably possible through good expectation management and an approbriate communication strategy. The author of the Book Deep work even recommends to not answer emails when one of the following three reasons applies: the content is ambiguous and makes it hard to generate a reasonable response. It is not a question or proposal that interests you. Or nothing really good or bad will happen if you do not reply. It is the senders responsibility to convince the receiver that a reply is worthwhile. Unfortunately i'm not doing this yet.
 * But there is a second one concerning our communication and it is about how we actively shape our email / slack communication - Be specific in your messages so that you can steer the communication in a fashion that the number of follow up emails will reduce or ideally will be one. 
 
---- 
+---
+
+## Spaced Repetition and Coding Katas
+
+* In Germany we have this saying - Übung macht den Meister - skill comes with practice - 
+* to move new learnings from your short into your long term it is necessary to repeat your learnings. 
+* This comes with two important findings:
+	* do not solve the same problem over and over again with the same solution - either become creative in your solutions or switch to different kind of challenges in the same area - even increase the difficulty practicing the same solution over the same problem again and again leads to overlearning - a lot of people here should know the term overfitting from endless machine learning blogs and talks. This is kinda the same - you will be comfortable in solving that specific problem with that specific solution but it will be hard for you to transfer the concepts to other challenges
+	* your repetition should be deliberate as well. That's why it is called spaced repetition - it means you will repeat something over and over again but with increasing periods in between.
+* to apply this method i currently use to practices:
+	* Spaced repetition in the form of digital flashcards and the so called Leitner System - in this system you will pick up a flashcard and answer it - if you answer is correct - the system will add a certain time - lets say 7 days to the waiting period until the card will show up next. It works similar the other way around with the difference that it will remove some time from the waiting period - so if you answer wrong it will show up again way more early
+	* The second technique i'm currenlty using are Coding Katas - maybe some of you used them before. You pick a coding challenge and then solve it in certain ways. With this you can hone your functional or object oriented programming skills or you can improve certain paradigms. I currently try to use half an hour of my day in the morning to practice TDD by the book on simple challenges to be warmed up before diving into the production code. 
+
+---
+
+## Measure yourself
+
+* Information structure - notebook
+* deep work tally - habit tally
+
+---
+
+## Summary
+
+
+
+---
 
 Thanks for listening.
 
