@@ -111,7 +111,7 @@ Besides the motivation it is important to find the appropriate mindset to build 
 
 ## Spaced Repetition and Coding Katas
 
-* In Germany we have this saying - Übung macht den Meister - skill comes with practice - 
+* In Germany we have this saying - Ãœbung macht den Meister - skill comes with practice - 
 * to move new learnings from your short into your long term it is necessary to repeat your learnings. 
 * This comes with two important findings:
 	* do not solve the same problem over and over again with the same solution - either become creative in your solutions or switch to different kind of challenges in the same area - even increase the difficulty practicing the same solution over the same problem again and again leads to overlearning - a lot of people here should know the term overfitting from endless machine learning blogs and talks. This is kinda the same - you will be comfortable in solving that specific problem with that specific solution but it will be hard for you to transfer the concepts to other challenges
@@ -124,8 +124,16 @@ Besides the motivation it is important to find the appropriate mindset to build 
 
 ## Measure yourself
 
-* Information structure - notebook
-* deep work tally - habit tally
+* To get used to new habits - in this case the learning habit - it is important to measure your success. But i do not mean the completion of a specific learn goal - like finishing course A or B. It is not about measuring the goal but to document the tally of your learning habit - so measure the number of hours you invest in a week to practice new things deliberately. For example preparing a talk for this conference. 
+* I started using a simple excel sheet to count the numbers of hours i invest in a week. Currently i'm using an app to be reminded of habits i want to incorporate into my day.
+
+---
+
+## Information Structuring / Memory
+
+* Before i will summarize the topic i want to introduce some techniques you could use in your daily learning. One of the techniques i mentioned before is using flashcards to enforced spaced repition with your own created quizes. Creating your own quizzes helps to be creative and to directly connect the question with the answer in your head. You associate them with each other. 
+* Another technique is the so called information structure - your progress looks like the following: you start with a simple mind map of your learnings - then create self administered quizzes to challenge yourself - this works well with flashcards - and in the last step you summarize your findings. The authoer of deep work is in to using expensive notebooks to record those findings - because they are expensive he tricks himself into high quality recordings.
+* The last technique i want to introduce is the method of loci. The so called memory journey - (maybe start with the example of a memory journey - interactive part and then refer to that) - where you imagine a path in your mind - let it be a path through your room, house or your favorite running path - and then you construct a story around the stuff you want to remember / revisit. I'm currently on the Udacity Robotics and Deep Learning course and i try to construct a mind palace - in this case an ordinary house with empty rooms - to remember my learnings. Those rooms also help with retaining a specific order of your learnings.
 
 ---
 
