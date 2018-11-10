@@ -111,7 +111,7 @@ Besides the motivation it is important to find the appropriate mindset to build 
 
 ## Spaced Repetition and Coding Katas
 
-* In Germany we have this saying - Ãœbung macht den Meister - skill comes with practice - 
+* In Germany we have this saying - Uebung macht den Meister - skill comes with practice - 
 * to move new learnings from your short into your long term it is necessary to repeat your learnings. 
 * This comes with two important findings:
 	* do not solve the same problem over and over again with the same solution - either become creative in your solutions or switch to different kind of challenges in the same area - even increase the difficulty practicing the same solution over the same problem again and again leads to overlearning - a lot of people here should know the term overfitting from endless machine learning blogs and talks. This is kinda the same - you will be comfortable in solving that specific problem with that specific solution but it will be hard for you to transfer the concepts to other challenges
@@ -139,7 +139,9 @@ Besides the motivation it is important to find the appropriate mindset to build 
 
 ## Summary
 
-
+* We are natural learner and should leverage it to our own benefit
+* Form a habit to learn deliberately
+* Challenge yourself 
 
 ---
 
