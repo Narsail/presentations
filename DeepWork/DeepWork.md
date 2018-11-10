@@ -12,7 +12,7 @@ I have chosen that title because I believe that both, continuous learning and on
 * imagine your their mind to be an empty cup - fill in as much as possible as fast as possible - your cup will eventually overflow
 * that's how a lot of people actually learn - that's how i learned at the university from time to time and it has not been sustainable.
 * but as you all know - just remember your time in school - it needs time and repetition to learn and sustain the vocabulary
-* and you can only learn as much as a cup of tea every day - feed your fire every day a little and it will surprise yourself with sustainable knowledge.
+* and you can only learn as much as a cup of tea every day - so our mind is actually behaving more like a fire which needs to be kindled every day a little and it will surprise yourself with sustainable knowledge.
 
 ---
 
@@ -22,9 +22,9 @@ I have chosen that title because I believe that both, continuous learning and on
 	* the software world is a fast changing environment - our javascript developers can tell one or two things about it
 	* we are moving into the area of business models and technologies that can distrupt domains - this happens in a fast pace
 	* we are confronted with a whole bunch of challenges day to day
- * we form and train CTOs
+ * we in DV form and train CTOs
  	* 	generalists need a broad understanding of different domains and technologies
- 	* 	
+ 	* 	we are facing new challenges every day - good opportunity to learn
 
 ---
 
@@ -44,6 +44,7 @@ I have chosen that title because I believe that both, continuous learning and on
 * An important part to be an efficient learner is to know why you learn
 * There a different ways why we learn - some learn for specific goals - to finish a course or to get a salary raise / promotion
 * Those are good reasons to learn - but everyone had this phase in his or her life where learning was easy - because you were curious at that time
+* I can remember the first time i learned iOS development - i did it in my free time while having my internship at BMW - every evening i could learn for two hours because i was just curious - in hindsight it was a shame that the content of my internship wasn't so interesting to be really curious about it - i just liked the cars :D 
 * to utilise this notion of learning out of curiosity it is important to provide yourself that space to learn - Mashooq for example has an hour every morning for himself to do whatever he wants. Doing sport - doing something healthy - read a book or to deliberately learn
 * I have this space in the evening - every evening i put aside one hour to do something productie - monday and friday it is usually sport but from tuesday to thursday i normally try to learn something
 * i want to highlight that avoiding a goal - like a course certificate - helps greatly with learning because you can take your time to really dig deep into the topic.
@@ -141,7 +142,7 @@ Besides the motivation it is important to find the appropriate mindset to build 
 
 * We are natural learner and should leverage it to our own benefit
 * Form a habit to learn deliberately
-* Challenge yourself 
+* Structure your learning habit and your day to day life too free up ressources
 
 ---
 
