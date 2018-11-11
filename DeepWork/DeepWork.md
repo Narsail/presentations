@@ -1,3 +1,5 @@
+<!-- $theme: default -->
+
 <!-- page_number: true -->
 
 # Become a better engineer through Deep Work and continuous learning.
@@ -100,11 +102,12 @@ Besides the motivation it is important to find the appropriate mindset to build 
 ## Drain the Shallows
 
 * how can you drain those shallows - how can you flee from the world of continuous distraction? 
-* There are notable ways to do this:
+* There are two notable ways to do this:
 1. Simply avoid those distractions while working deeply and deal with them later and by planning active shallow time - where it comes handy to actually plan your day
 * everytime i work in a new team and we have a exercise where we explain individual expectations to work together - i emphasize - pls do not distract me when i work while wearing headphones
 * in this situation i typically try to be in deep work and also reduce other distractions as well - by putting the apple devices in the do not disturb mode
-2. the second way of draining your shallows is to actually drain them. 
+2. Don't plan your deep work but shallow time - you can do this to the extreme too allow certain distractions (news, emails, even internet) only in certain time frames of your day
+3. the second way of draining your shallows is to actually drain them. 
 * Make yourself rare - every one of us has the right to control its own communication - reset your correspondents expectation to the reality that you will probably not respond. I know, this is a kind of extreme measure but probably possible through good expectation management and an approbriate communication strategy. The author of the Book Deep work even recommends to not answer emails when one of the following three reasons applies: the content is ambiguous and makes it hard to generate a reasonable response. It is not a question or proposal that interests you. Or nothing really good or bad will happen if you do not reply. It is the senders responsibility to convince the receiver that a reply is worthwhile. Unfortunately i'm not doing this yet.
 * But there is a second one concerning our communication and it is about how we actively shape our email / slack communication - Be specific in your messages so that you can steer the communication in a fashion that the number of follow up emails will reduce or ideally will be one. 
 

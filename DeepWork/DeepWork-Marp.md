@@ -59,3 +59,50 @@ Plutarchos 45-125 AD (quoted by Mashooq Badar at SC-London)
 
 ---
 ## How do i structure my daily life to provide that space for deliberate learning?
+
+* 3 stages: Monthly / Weekly / Daily planning
+* More granular towards daily planning
+* Plan your free time as much as possible
+* Free up your working memory through planning and ToDo Lists
+
+---
+## Drain the Shallows
+
+* Shut down your distractions completely when working deep
+* Plan time slots for your distractions
+* Get control over your distractions
+
+--- 
+## Spaced repetition and Coding Katas
+
+* Recall and repeat
+* Learn the basic but avoid easy repetition
+* Leverage coding katas to warm up for your daily coding work
+
+---
+## Measure yourself
+
+* Measure your hour tally to keep track of the time invested in your learning habit
+
+---
+## Information Structuring / Memory
+
+* Summarize your learnings in a structured way
+* Flashcards for spaced repetition
+* Method of loci / mind palace
+
+---
+## Summary
+
+* We are natural learner and should leverage it to our own benefit
+* Form a habit to learn deliberately
+* Structure your learning habit and your day to day life too free up ressources
+
+---
+
+Thanks for listening.
+
+Further Information:
+* "Deep Work" by Cal Newport
+* "So good they can't ignore you" by Cal Newport
+* "A mind for number" by Barbara Oakley
