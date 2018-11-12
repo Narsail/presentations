@@ -14,14 +14,7 @@ Plutarchos 45-125 AD (quoted by Mashooq Badar at SC-London)
 
 * We are Knowledge Workers
 * Software Developers need to keep up with rapid technology changes and improvements
-
----
-
-## When should we learn?
-
-* Lifelong learning
-* Deliberate instead of passively
-* Everyday a bit
+* [Manage expectations - what is the content of the main part?]
 
 ---
 
@@ -46,6 +39,14 @@ Plutarchos 45-125 AD (quoted by Mashooq Badar at SC-London)
 * Being in the Flow - Deep Work
 * Deliberate learning
 * Focused and Diffuse Mode
+
+---
+
+## When should we learn?
+
+* Lifelong learning
+* Deliberate instead of passively
+* Everyday a bit
 
 --- 
 
