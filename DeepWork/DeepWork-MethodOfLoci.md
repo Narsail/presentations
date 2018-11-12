@@ -1,0 +1,1 @@
+In this deck i describe every slide of the [DeepWork-Marp Deck](DeepWork-Marp.md) as being part of a [Method of Loci](https://en.wikipedia.org/wiki/Method_of_loci) journey.
